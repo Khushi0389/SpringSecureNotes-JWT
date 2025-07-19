@@ -2,8 +2,6 @@
 
 A secure, production-grade Spring Boot REST API that allows users to register, login, and manage their personal notes securely with **JWT authentication**, **role-based access**, **custom response handling**, and **exception validation**.
 
-> ✅ Built from scratch in Day 8–14 of Spring Boot Backend Mastery Plan.
-
 ---
 
 ## ✨ Features
